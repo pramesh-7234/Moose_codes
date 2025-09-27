@@ -2,8 +2,12 @@
 Some codes i wrote to simulate stuff on MOOSE. Just trying to get the hang of it
 
 MOOSE INSTALLATION GUIDE AND TUTORIALS CAN BE FOUND AT: [https://mooseneuro.github.io/]
+
 SOME EXAMPLE .py FILES CAN BE FOUND AT: [https://github.com/subhacom/moose-examples]
+
 EXAMPLE .ipynb FILES (JUPYTER NOTEBOOKS): [https://github.com/subhacom/moose-notebooks]
+
+
 
 The Moose Notebooks (.ipynb files) are very useful for learning how MOOSE can be used for biophysical and biochemical simulations. They are ideal for getting the basic hang of this simulation environment.
 
